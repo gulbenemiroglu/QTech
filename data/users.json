@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "mehmetakyokus@gmail.com",
+    "password": "123456",
+    "dayLimit": 15
+  },
+  {
+    "id": 2,
+    "username": "gulben@gmail.com",
+    "password": "000000",
+    "dayLimit": 8
+  }
+]
